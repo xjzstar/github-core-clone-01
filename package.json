@@ -1,0 +1,1 @@
+{"description":"A minimal GitHub-compatible forge: the lifecycle and two answers, ready to grow into the contest's surface","engines":{"node":">=22.18"},"license":"MIT","name":"github-core-clone-01-starter","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"0.0.0"}
